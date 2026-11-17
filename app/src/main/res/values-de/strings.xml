@@ -1,0 +1,313 @@
+<resources>
+    <string name="app_name">3ditdoc</string>
+    <string name="drawer_open">Menü öffnen</string>
+    <string name="drawer_tagline">PDFs am Smartphone ausfüllen, signieren &amp; vereinen</string>
+    <string name="drawer_section_actions">Dokumente</string>
+    <string name="drawer_section_guide">Hilfe &amp; Infos</string>
+    <string name="drawer_offline_badge">Ohne Internet • Bleibt auf dem Gerät</string>
+
+    <string name="home_badge">Das Original bleibt unverändert</string>
+    <string name="home_title">PDFs ausfüllen, unterschreiben und bearbeiten – ganz ohne Mühe</string>
+    <string name="home_description">Schreiben Sie Text, fügen Sie Ihre Unterschrift oder ein Foto ein und speichern Sie eine neue Kopie in Downloads. Ihr Original bleibt sicher.</string>
+    <string name="trust_offline">Ohne Internet</string>
+    <string name="trust_no_login">Kein Konto</string>
+    <string name="trust_no_watermark">Kein Wasserzeichen</string>
+    <string name="action_open_pdf">PDF öffnen</string>
+    <string name="loading_pdf">PDF wird geöffnet…</string>
+    <string name="home_source_hint">Funktioniert mit PDFs aus WhatsApp, Drive, Teams, E-Mail oder lokalem Speicher.</string>
+    <string name="how_it_works_3_steps">So einfach geht\'s</string>
+    <string name="step_1_short">1. PDF wählen</string>
+    <string name="step_2_short">2. Ausfüllen</string>
+    <string name="step_3_short">3. Kopie sichern</string>
+    <string name="hero_image_desc">Illustration von Bearbeitungen über einem unveränderten Original-PDF</string>
+
+    <string name="action_tutorial">So funktioniert\'s</string>
+    <string name="action_terms">Nutzungsbedingungen</string>
+    <string name="action_privacy">Datenschutz</string>
+    <string name="action_about">Über 3ditdoc</string>
+
+    <string name="tool_text">Schreiben</string>
+    <string name="tool_image">Bild</string>
+    <string name="tool_draw">Zeichnen</string>
+
+    <string name="font_sans">Modern (Sans)</string>
+    <string name="font_serif">Klassisch (Serif)</string>
+    <string name="font_mono">Code (Mono)</string>
+    <string name="font_cursive">Handschrift</string>
+
+    <string name="editor_layer_active">%1$d Änderung(en) hinzugefügt</string>
+    <string name="editor_viewing_original">Nur Original-PDF wird angezeigt</string>
+    <string name="editor_undo">Rückgängig</string>
+    <string name="editor_redo">Wiederholen</string>
+    <string name="editor_hide_layer">Bearbeitungen ausblenden, um Original zu prüfen</string>
+    <string name="editor_show_layer">Bearbeitungen einblenden</string>
+    <string name="editor_preview_btn">Vorschau</string>
+    <string name="editor_more_options">Weitere Optionen</string>
+    <string name="editor_clear_layer">Alle meine Änderungen löschen</string>
+    <string name="editor_tap_to_write_hint">Tippen Sie zum Schreiben auf die Seite</string>
+    <string name="editor_page_indicator">Seite %1$d von %2$d</string>
+    <string name="editor_prev_page">Vorherige Seite</string>
+    <string name="editor_next_page">Nächste Seite</string>
+    <string name="editor_back">Zurück</string>
+    <string name="editor_zoom_reset">%.1fx • Zum Zurücksetzen tippen</string>
+    <string name="editor_pdf_page_desc">PDF-Dokumentseite</string>
+    <string name="editor_added_image_desc">Bild über PDF</string>
+    <string name="editor_resize_text">Textgröße ändern</string>
+    <string name="editor_resize_item">Größe ändern</string>
+    <string name="editor_rotate_item">Drehen</string>
+
+    <string name="text_sheet_add_title">Auf PDF schreiben</string>
+    <string name="text_sheet_edit_title">Text bearbeiten</string>
+    <string name="text_sheet_delete">Text löschen</string>
+    <string name="text_sheet_label">Text eingeben</string>
+    <string name="text_sheet_placeholder">Z. B. Name, Datum…</string>
+    <string name="text_sheet_font">Schriftart</string>
+    <string name="text_sheet_size">Größe: %1$d pt</string>
+    <string name="text_sheet_color">Farbe</string>
+    <string name="text_sheet_place">Auf Seite platzieren</string>
+    <string name="text_sheet_apply">Änderungen übernehmen</string>
+
+    <string name="image_sheet_title">Bild hinzufügen</string>
+    <string name="image_sheet_subtitle">Danach frei verschieben, skalieren und drehen.</string>
+    <string name="image_pick_gallery">Aus Galerie wählen</string>
+    <string name="image_take_photo">Foto aufnehmen</string>
+
+    <string name="signature_title">Dokument unterschreiben</string>
+    <string name="signature_close">Schließen</string>
+    <string name="signature_subtitle">Unten unterschreiben und anschließend frei auf dem PDF platzieren.</string>
+    <string name="signature_placeholder">Hier unterschreiben</string>
+    <string name="signature_thin">Dünn</string>
+    <string name="signature_medium">Mittel</string>
+    <string name="signature_bold">Dick</string>
+    <string name="signature_clear">Leeren</string>
+    <string name="signature_insert">In PDF einfügen</string>
+
+    <string name="selected_text_label">Text ausgewählt</string>
+    <string name="selected_edit">Bearbeiten</string>
+    <string name="selected_delete_item">Löschen</string>
+    <string name="selected_image_hint">Ziehen, drehen oder Ecke ziehen</string>
+    <string name="selected_rotate_90">Um 90° drehen</string>
+    <string name="selected_delete_image">Bild löschen</string>
+    <string name="selected_delete_drawing">Zeichnung löschen</string>
+
+    <string name="draw_size_s">S</string>
+    <string name="draw_size_m">M</string>
+    <string name="draw_size_l">L</string>
+    <string name="draw_signature_btn">Signatur</string>
+    <string name="draw_undo_stroke">Strich rückgängig</string>
+    <string name="draw_done">Fertig</string>
+
+    <string name="clear_dialog_title">Alles Hinzugefügte entfernen?</string>
+    <string name="clear_dialog_body">Alle eingefügten Texte, Fotos, Formen und Unterschriften werden entfernt und das Original bleibt unverändert.</string>
+    <string name="clear_dialog_confirm">Alles entfernen</string>
+    <string name="dialog_cancel">Abbrechen</string>
+
+    <string name="exit_dialog_title">Bearbeitung verlassen?</string>
+    <string name="exit_dialog_body">Ihre Änderungen wurden noch nicht als neues PDF gespeichert. Das Original bleibt sicher.</string>
+    <string name="exit_dialog_confirm">Ohne Speichern verlassen</string>
+    <string name="exit_dialog_keep">Weiter bearbeiten</string>
+
+    <string name="preview_title">Vor dem Speichern prüfen</string>
+    <string name="preview_subtitle">Sieht auf Smartphone und Computer genau gleich aus</string>
+    <string name="preview_back">Zurück zum Editor</string>
+    <string name="preview_image_desc">Vorschau des fertigen PDFs</string>
+    <string name="preview_intact_note">Original intakt • Neue Datei: %1$s</string>
+    <string name="preview_share_btn">Teilen</string>
+    <string name="preview_save_btn">Neues PDF speichern</string>
+    <string name="preview_saving">Speichern…</string>
+    <string name="share_chooser_title">Bearbeitetes PDF teilen</string>
+
+    <string name="tutorial_skip">Überspringen</string>
+    <string name="tutorial_next">Weiter</string>
+    <string name="tutorial_start">Loslegen</string>
+    <string name="tutorial_step_1_badge">Schritt 1 von 3</string>
+    <string name="tutorial_step_1_title">Jedes PDF sicher öffnen</string>
+    <string name="tutorial_step_1_desc">Wählen Sie ein PDF aus WhatsApp, Drive, E-Mail oder lokal. Die Originaldatei wird niemals verändert.</string>
+    <string name="tutorial_step_1_highlight">Wenn Sie Ihre Ebene löschen, bleibt das PDF im Ausgangszustand.</string>
+    <string name="tutorial_step_2_badge">Schritt 2 von 3</string>
+    <string name="tutorial_step_2_title">Alles darüberlegen</string>
+    <string name="tutorial_step_2_desc">3 klare Werkzeuge: Text schreiben, Bild einfügen und frei zeichnen oder unterschreiben.</string>
+    <string name="tutorial_step_2_highlight">Alles frei verschieben, skalieren, drehen oder löschen.</string>
+    <string name="tutorial_step_3_badge">Schritt 3 von 3</string>
+    <string name="tutorial_step_3_title">Exakte Vorschau, 100% offline</string>
+    <string name="tutorial_step_3_desc">Prüfen Sie das finale Ergebnis ohne Schriftfehler und speichern Sie ein neues PDF.</string>
+    <string name="tutorial_step_3_highlight">100% offline • Kein Konto • Kein Wasserzeichen.</string>
+
+    <string name="legal_screen_title">Infos &amp; Richtlinien</string>
+    <string name="legal_tab_terms">Bedingungen</string>
+    <string name="legal_tab_privacy">Datenschutz</string>
+    <string name="legal_tab_about">Über</string>
+
+    <string name="terms_s1_title">1. Zweck von 3ditdoc</string>
+    <string name="terms_s1_body">3ditdoc ist ein kostenloses, 100% lokales Werkzeug zum Hinzufügen einer neuen Ebene über bestehende PDFs.</string>
+    <string name="terms_s2_title">2. Schutz des Originals</string>
+    <string name="terms_s2_body">Die Quelldatei wird nie automatisch überschrieben; es wird stets ein neues PDF gespeichert.</string>
+    <string name="terms_s3_title">3. Verantwortung</string>
+    <string name="terms_s3_body">Sie tragen die Verantwortung für bearbeitete Inhalte und visuelle Unterschriften.</string>
+    <string name="terms_s4_title">4. Keine Limits</string>
+    <string name="terms_s4_body">Kein Konto, keine Werbung beim Bearbeiten und keine Wasserzeichen.</string>
+
+    <string name="privacy_s1_title">1. 100% lokale Verarbeitung</string>
+    <string name="privacy_s1_body">Alle Dokumente werden ausschließlich lokal auf Ihrem Gerät verarbeitet.</string>
+    <string name="privacy_s2_title">2. Keine Datenerhebung</string>
+    <string name="privacy_s2_body">Keine Registrierung, kein Tracking, keine Weitergabe persönlicher Daten.</string>
+    <string name="privacy_s3_title">3. Minimale Berechtigungen</string>
+    <string name="privacy_s3_body">System-Dateiauswahl für PDFs, Android Photo Picker für Bilder und Kamera nur auf ausdrückliche Aktion.</string>
+    <string name="privacy_s4_title">4. Temporärer Cache</string>
+    <string name="privacy_s4_body">Arbeitskopien bleiben nur temporär lokal im Cache.</string>
+
+    <string name="about_s1_title">Originalgetreue Vorschau</string>
+    <string name="about_s1_body">3ditdoc bettet echte Schriftarten ein und hängt nur eine neue Ebene an das Original-PDF an.</string>
+    <string name="about_s2_title">Kurztipps</string>
+    <string name="about_s2_body">• Tippen Sie auf ein Element zum Verschieben oder Drehen.\n• Das Augensymbol blendet Ihre Ebene vorübergehend aus.</string>
+
+    <string name="err_read_file">Die ausgewählte Datei konnte nicht gelesen werden.</string>
+    <string name="err_empty_pdf">Die ausgewählte PDF-Datei ist leer.</string>
+    <string name="err_no_pages">Dieses PDF enthält keine gültigen Seiten.</string>
+    <string name="err_open_pdf">Diese PDF-Datei konnte nicht geöffnet werden.</string>
+    <string name="err_read_image">Das ausgewählte Bild konnte nicht gelesen werden.</string>
+    <string name="err_unsupported_image">Nicht unterstütztes Bildformat.</string>
+    <string name="err_import_image">Fehler beim Importieren des Bildes.</string>
+    <string name="err_source_missing">Original-PDF nicht im Cache gefunden.</string>
+    <string name="err_generate_preview">PDF-Vorschau konnte nicht erstellt werden.</string>
+    <string name="err_write_output">Neues PDF konnte nicht geschrieben werden.</string>
+    <string name="err_save_file">Speichern fehlgeschlagen.</string>
+    <string name="msg_saved_success">Neues PDF gespeichert! Das Original blieb unverändert.</string>
+    <string name="default_pdf_filename">dokument.pdf</string>
+    <string name="default_edited_filename">dokument_bearbeitet.pdf</string>
+    <string name="edited_suffix">_bearbeitet.pdf</string>
+
+    <string name="drawer_section_tools">Werkzeuge &amp; Test</string>
+    <string name="action_sample_pdf">Test-PDF öffnen</string>
+    <string name="action_pdf_to_image">PDF zu Bild</string>
+    <string name="action_image_to_pdf">Bild zu PDF</string>
+    <string name="editor_export_page_image">Seite als PNG speichern</string>
+    <string name="preview_save_image_btn">Als Bild speichern</string>
+    <string name="text_white_bg_toggle">Weißer Hintergrund (Text abdecken)</string>
+    <string name="draw_mode_pen">Stift</string>
+    <string name="draw_mode_highlighter">Textmarker</string>
+    <string name="draw_stamps_label">Stempel:</string>
+    <string name="stamp_check">Haken</string>
+    <string name="stamp_cross">Kreuz</string>
+    <string name="stamp_box">Rahmen</string>
+    <string name="stamp_line">Linie</string>
+    <string name="selected_duplicate">Duplizieren</string>
+
+    <string name="converter_pdf_to_img_title">PDF zu Bild (PNG)</string>
+    <string name="converter_img_to_pdf_title">Bild zu PDF</string>
+    <string name="converter_processing">Konvertierung…</string>
+    <string name="converter_save_png">PNG speichern</string>
+    <string name="converter_share_png">PNG teilen</string>
+    <string name="converter_save_pdf">PDF speichern</string>
+    <string name="converter_edit_in_app">In 3ditdoc bearbeiten</string>
+    <string name="converter_pick_pdf_hint">Wählen Sie ein PDF, um Seiten als scharfe PNG-Bilder zu exportieren.</string>
+    <string name="converter_pick_img_hint">Wählen Sie 1 oder mehrere Bilder für ein neues PDF.</string>
+    <string name="converter_img_ready_pages">%1$d Bild(er) in ein %1$d-seitiges PDF umgewandelt.</string>
+    <string name="converter_saved_png_msg">PNG-Bild gespeichert! Das Original-PDF blieb unverändert.</string>
+    <string name="converter_saved_pdf_msg">Neues PDF aus Bild(ern) erstellt und gespeichert!</string>
+    <string name="converter_close">Schließen</string>
+    <string name="sample_pdf_name">testformular_3ditdoc.pdf</string>
+
+    <string name="draw_mode_shapes">Formen</string>
+    <string name="shape_rectangle">Rechteck</string>
+    <string name="shape_circle">Kreis</string>
+    <string name="shape_triangle">Dreieck</string>
+    <string name="shape_arrow">Pfeil</string>
+    <string name="shape_line">Linie</string>
+    <string name="shape_diamond">Raute</string>
+    <string name="shape_star">Stern</string>
+    <string name="shape_outline">Umriss</string>
+    <string name="shape_filled">Gefüllt</string>
+    <string name="shape_translucent">Sanft</string>
+    <string name="shape_insert_btn">Einfügen</string>
+    <string name="editor_shapes_hint">Auf der Seite ziehen oder auf Einfügen tippen</string>
+    <string name="selected_move">Bewegen</string>
+    <string name="selected_move_all">Alle bewegen</string>
+    <string name="selected_bring_front">Nach vorn</string>
+    <string name="selected_shape_label">Form ausgewählt</string>
+    <string name="selected_drawing_label">Zeichnung ausgewählt</string>
+    <string name="move_pad_left">Nach links</string>
+    <string name="move_pad_up">Nach oben</string>
+    <string name="move_pad_down">Nach unten</string>
+    <string name="move_pad_right">Nach rechts</string>
+    <string name="move_center_page">Zentrieren</string>
+    <string name="move_step_fine">Fein</string>
+    <string name="move_step_medium">Mittel</string>
+    <string name="move_all_banner">Alle bewegen: beliebig ziehen oder Pfeile nutzen</string>
+    <string name="move_all_done">Fertig</string>
+    <string name="editor_move_all_action">Alle Elemente bewegen</string>
+    <string name="text_preset_today">Heute</string>
+    <string name="text_preset_approved">GENEHMIGT</string>
+    <string name="draw_reuse_signature">Letzte Signatur</string>
+    <string name="editor_move_handle_desc">Ziehen zum Verschieben</string>
+
+    <string name="drawer_section_developer">App &amp; Entwickler</string>
+    <string name="dev_card_title">Kostenlos &amp; Unabhängig</string>
+    <string name="dev_card_promise">100% kostenlos, werbefrei, ohne Gebühren und ohne Speicherung persönlicher Daten.</string>
+    <string name="dev_contact_label">Fehler melden &amp; Verbesserungen vorschlagen</string>
+    <string name="dev_email_subject">3ditdoc — Feedback / Fehlerbericht</string>
+    <string name="dev_send_email_btn">E-Mail</string>
+    <string name="dev_copy_email_btn">E-Mail kopieren</string>
+    <string name="dev_copied_feedback">E-Mail kopiert!</string>
+    <string name="dev_support_title">Projekt unterstützen</string>
+    <string name="dev_support_subtitle">Falls Sie spenden möchten, nutzen Sie diesen Pix-Schlüssel:</string>
+    <string name="dev_pix_label">Pix-Schlüssel</string>
+    <string name="dev_copy_pix_btn">Pix kopieren</string>
+    <string name="dev_pix_copied_feedback">Pix-Schlüssel kopiert!</string>
+    <string name="dev_other_donations_hint">Für andere Spendenarten kontaktieren Sie uns bitte per E-Mail.</string>
+
+    <string name="image_remove_bg">Hintergrund entfernen</string>
+    <string name="image_bg_removed">Freigestellt</string>
+
+    <string name="pages_organizer_title">Seiten &amp; Vorschau</string>
+    <string name="pages_organizer_action">Seiten organisieren</string>
+    <string name="pages_organizer_hint">Tippen zum Springen, um 90° drehen, neu anordnen oder leere Seiten löschen.</string>
+    <string name="page_item_label">Seite %1$d</string>
+    <string name="page_move_earlier">Nach vorn verschieben</string>
+    <string name="page_move_later">Nach hinten verschieben</string>
+    <string name="page_rotate_90">Seite um 90° drehen</string>
+    <string name="page_delete">Seite löschen</string>
+    <string name="page_delete_confirm_title">Seite %1$d löschen?</string>
+    <string name="page_delete_confirm_body">Die Seite wird nur aus dieser Arbeitskopie entfernt. Ihr Original-PDF bleibt unberührt.</string>
+
+    <string name="save_downloads_btn">In Downloads speichern</string>
+    <string name="save_other_folder_btn">Anderen Ordner wählen…</string>
+    <string name="save_downloads_success">In Downloads/3ditdoc (%1$s) gespeichert. 100% offline verarbeitet.</string>
+    <string name="share_offline_notice">3ditdoc arbeitet 100% offline. Beim Teilen wird die Datei lokal übergeben; Internet wird nur genutzt, wenn Sie eine Online-App (WhatsApp, E-Mail, Drive) wählen.</string>
+
+    <string name="tutorial_step_1_badge_v2">Schritt 1 von 4</string>
+    <string name="tutorial_step_2_badge_v2">Schritt 2 von 4</string>
+    <string name="tutorial_step_2_desc_v2">Schreiben, Fotos einfügen (weißes Papier bei Unterschriften entfernen), zeichnen, Formen hinzufügen, PDFs zusammenfügen und Seiten sortieren.</string>
+    <string name="tutorial_step_3_badge_v2">Schritt 3 von 4</string>
+    <string name="tutorial_step_3_title_v2">Direkt in Downloads gespeichert</string>
+    <string name="tutorial_step_3_desc_v2">Bearbeitete PDFs, zusammengefügte Dokumente und konvertierte Bilder landen lokal unter Downloads/3ditdoc – offline und ohne Wasserzeichen.</string>
+    <string name="tutorial_step_3_highlight_v2">Original unberührt • Gespeichert in Downloads/3ditdoc.</string>
+    <string name="tutorial_step_4_badge">Schritt 4 von 4</string>
+    <string name="tutorial_step_4_title">Mit anderen Apps teilen</string>
+    <string name="tutorial_step_4_desc">3ditdoc verbindet sich nie mit dem Internet. Beim Teilen wird die Datei lokal übergeben; Internet nutzt nur eine Online-Ziel-App (WhatsApp, E-Mail, Drive).</string>
+    <string name="tutorial_step_4_highlight">Funktioniert offline • Internet nur bei Versand über Dritt-Apps.</string>
+
+    <string name="action_merge_pdfs">PDFs zusammenfügen</string>
+    <string name="merge_title">PDFs zusammenfügen</string>
+    <string name="merge_hint">Fügen Sie PDF-Dateien hinzu, sortieren Sie die Reihenfolge und verbinden Sie alles in ein Dokument.</string>
+    <string name="merge_add_pdf">PDFs hinzufügen</string>
+    <string name="merge_empty_hint">Tippen Sie auf "PDFs hinzufügen", um 2 oder mehr Dateien auszuwählen.</string>
+    <string name="merge_pages_count">%1$d Seite(n)</string>
+    <string name="merge_move_up">Nach oben</string>
+    <string name="merge_move_down">Nach unten</string>
+    <string name="merge_remove">PDF entfernen</string>
+    <string name="merge_execute_btn">Zusammenfügen</string>
+    <string name="merge_result_ready">%1$d Seite(n) in einem PDF vereint.</string>
+    <string name="merge_need_two">Wählen Sie mindestens 2 PDF-Dateien aus.</string>
+    <string name="merge_saved_msg">Zusammengefügtes PDF gespeichert! Originale blieben unverändert.</string>
+    <string name="page_organizer_append_pdf">Weiteres PDF anhängen</string>
+
+    <string name="img2pdf_stage_title">Seiten bearbeiten &amp; sortieren</string>
+    <string name="img2pdf_stage_hint">Reihenfolge festlegen, um 90° drehen oder hellen Hintergrund entfernen, bevor das PDF erstellt wird.</string>
+    <string name="img2pdf_add_more">Fotos hinzufügen</string>
+    <string name="img2pdf_create_pdf">PDF erstellen (%1$d)</string>
+    <string name="img2pdf_move_earlier">Nach vorn</string>
+    <string name="img2pdf_move_later">Nach hinten</string>
+    <string name="img2pdf_rotate">Um 90° drehen</string>
+    <string name="img2pdf_remove">Foto entfernen</string>
+</resources>
