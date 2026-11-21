@@ -3,6 +3,9 @@
 Uma ferramenta simples, rápida e 100% offline para editar documentos PDF direto no seu dispositivo. Sem coleta de dados, sem anúncios, sem nuvem e sem Inteligência Artificial.
 
 *Read this in [English](#english).*
+
+## Privacy Policy  / Política de privacidade 
+
 https://leap-state.github.io/3ditdoc/
 
 ---
