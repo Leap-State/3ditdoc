@@ -1,6 +1,0 @@
-{
-  "name": "3ditdoc",
-  "description": "Offline PDF layer editor to add text, images, drawings, and signatures on top of any PDF without altering the original file.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
